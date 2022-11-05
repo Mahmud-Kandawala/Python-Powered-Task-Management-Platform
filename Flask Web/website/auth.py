@@ -1,4 +1,4 @@
-from flask import Blueprint #bunch of urls
+from flask import Blueprint 
 
 auth = Blueprint('auth', __name__)
 

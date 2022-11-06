@@ -1,5 +1,6 @@
-# To-Do-List Python Program
+# To-Do-List Python Website
 
+This is a website I created to keep track of tasks I have to do throughout my day. I can use this program to differentiate the tasks I must do as a college student and young adult. This program allows users to create a login with a specific email and track their tasks with that specific email. Users can create an account with their work email and keep track of the associated task with that email. Users can also create an account with their personal email and keep track of tasks associated with their personal email. Below you will see the details initiated by this project. 
 
 
 ## What I Learned/Project Covers

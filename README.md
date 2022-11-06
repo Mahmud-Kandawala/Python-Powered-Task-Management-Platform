@@ -21,7 +21,15 @@
 
 ## Pictures
 
+####Picture of Login Screen
 ![](images/home.png)
+
+####Picture of Sign Up Screen
+![](images/singup.png)
+
+####Picture of Task Adding Screen
+![](images/notes1.png)
+
 
 ## Setup & Installation 
 

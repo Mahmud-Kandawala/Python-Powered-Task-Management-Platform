@@ -27,7 +27,7 @@ Login Screen:
 Sign Up Screen:
 <img src = "images/signup.png"> 
 
-Task Adding Screen:
+Task Screen (Add + Remove):
 <img src = "images/task.png"> 
 
 

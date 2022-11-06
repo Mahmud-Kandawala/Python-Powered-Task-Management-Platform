@@ -22,7 +22,7 @@
 ## Pictures
 
 Login Screen:
-<img src = "images/home.png" width = 1300 height = 600> 
+<img src = "images/home.png" width = 1000 height = 300> 
 
 Sign Up Screen:
 ![](images/signup.png)

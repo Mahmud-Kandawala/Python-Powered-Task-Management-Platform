@@ -22,16 +22,16 @@
 ## Pictures
 
 Login Screen:
-<img src = "images/home.png" width = 1000 height = 300> 
+<img src = "images/home.png"> 
 
 Sign Up Screen:
-![](images/signup.png)
+<img src = "images/signup.png"> 
 
 Task Adding Screen:
-![](images/notes1.png)
+<img src = "images/task.png"> 
 
 
-## Setup & Installation 
+## Setup 
 
 Make sure you have the latest version of Python installed.
 

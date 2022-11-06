@@ -21,13 +21,13 @@
 
 ## Pictures
 
-###Picture of Login Screen
-![](images/home.png)
+Login Screen:
+<img src = "images/home.png" width = 500 height = 500> 
 
-###Picture of Sign Up Screen
+Sign Up Screen:
 ![](images/signup.png)
 
-###Picture of Task Adding Screen
+Task Adding Screen:
 ![](images/notes1.png)
 
 

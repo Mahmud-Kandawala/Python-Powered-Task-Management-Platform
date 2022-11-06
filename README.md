@@ -21,7 +21,7 @@
 
 ## Pictures
 
-![]()
+![](images/home.png)
 
 ## Setup & Installation 
 

@@ -2,11 +2,26 @@
 
 
 
-## What I Learned
+## What I Learned/Project Covers
 
-## Goals
+```
+- Directory Structure
+- Creating Routes/Views
+- Jinja Templating Language & HTML Templates
+- Login & Sign Up Page HTML 
+- HTTP Requests (POST, GET, etc.)
+- Handling POST Requests
+- Flask SQLAlchemy Setup
+- Database Models, Foreign Key Relationships, & Database Creation
+- Creating New User Accounts & Logging In Users 
+- Checking if User is Logged In & Notes HTML
+- Adding User Notes & Deleting User Notes
+```
+
 
 ## Pictures
+
+
 
 ## Setup & Installation 
 

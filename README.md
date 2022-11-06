@@ -21,7 +21,7 @@
 
 ## Pictures
 
-
+![]()
 
 ## Setup & Installation 
 
@@ -34,3 +34,7 @@ pip install flask
 pip install Flask-SQLAlchemy
 pip install flask-login
 ```
+
+## Viewing The App
+
+Go to `http://127.0.0.1:5000`

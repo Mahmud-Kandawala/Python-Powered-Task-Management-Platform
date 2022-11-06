@@ -21,9 +21,17 @@
 
 ## Pictures
 
-![]()
+Login Screen:
+<img src = "images/home.png"> 
 
-## Setup & Installation 
+Sign Up Screen:
+<img src = "images/signup.png"> 
+
+Task Adding Screen:
+<img src = "images/task.png"> 
+
+
+## Setup 
 
 Make sure you have the latest version of Python installed.
 

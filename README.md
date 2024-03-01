@@ -32,15 +32,15 @@ The backend infrastructure is built upon Flask SQLAlchemy, facilitating seamless
 - Note Management Features: Implemented functionalities for adding and deleting user notes, applying CRUD operations in a practical scenario and managing user-generated content efficiently.
 
 
-## Program Images
+## Images
 
-### Login Screen:
+#### Login Screen:
 <img src = "images/home.png"> 
 
-### Sign Up Screen:
+#### Sign Up Screen:
 <img src = "images/signup.png"> 
 
-### Task Add/Removal Screen:
+#### Task Add/Removal Screen:
 <img src = "images/task.png"> 
 
 
